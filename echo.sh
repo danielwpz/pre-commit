@@ -1,4 +1,3 @@
-#!/bin/sh
+#!/ bin /sh
 
-scalariform $0
-
+scalariform $1
