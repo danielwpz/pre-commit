@@ -1,0 +1,6 @@
+- id: echo
+  name: Trim Trailing Whitespace
+  description: This hook trims trailing whitespace.
+  entry: echo.sh
+  language: script
+  files: \$
