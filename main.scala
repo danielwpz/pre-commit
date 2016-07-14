@@ -4,8 +4,14 @@ import scala.concurrent.ExecutionContext.Implicits._
 /**
  * Created by Daniel on 24-Nov-2015.
  */
-object main {
-  def main(args: Array[String]) {
+object main 
+
+{
+
+	
+	
+	
+	def main(args: Array[String]) {
     var x = 19
 
     val Authorize = authorized {

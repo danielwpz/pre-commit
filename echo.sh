@@ -1,3 +1,3 @@
 #!/ bin /sh
 
-scalariform $1
+cat $1
