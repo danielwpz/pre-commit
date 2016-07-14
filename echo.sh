@@ -1,3 +1,3 @@
-#!/ bin /sh
+#!/bin/sh
 
-cat $1
+echo 'hi'
