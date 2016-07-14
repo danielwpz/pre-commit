@@ -5,13 +5,14 @@ import scala.concurrent.ExecutionContext.Implicits._
  * Created by Daniel on 24-Nov-2015.
  */
 object main {
-  def main(args: Array[String]) {
-    var x = 19
+  def main(          args: Array[String]) {
+    var x =    19
 
-    val Authorize = authorized {
+    val Authorize =authorized {
       x match {
         case 1 => None
-        case _ => Some(x)
+        case _ => 
+		Some(x)
       }
     } _
 
