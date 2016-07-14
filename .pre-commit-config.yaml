@@ -1,4 +1,4 @@
-- repo: git@github.com:danielwpz/pre-commit.git
-  sha: 7347e4fb
-  hooks:
-  - id: echo
+-   repo: git@github.com:danielwpz/pre-commit.git
+    sha: 7387592cd617503b5c66a5a35f970e97c4de6581
+    hooks:
+    -   id: echo
