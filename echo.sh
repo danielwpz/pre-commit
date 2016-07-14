@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'hi'
+scalariform $1
