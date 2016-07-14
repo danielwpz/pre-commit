@@ -1,6 +1,6 @@
 - id: echo
-  name: Trim Trailing Whitespace
+  name: Echo file names
   description: This hook trims trailing whitespace.
   entry: echo.sh
   language: script
-  files: \$
+  files: \*.*$
